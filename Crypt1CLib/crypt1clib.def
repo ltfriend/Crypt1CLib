@@ -1,0 +1,7 @@
+LIBRARY    "crypt1clib"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities

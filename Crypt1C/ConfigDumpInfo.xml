@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonModule.Криптография" id="4e1ce054-5ca6-4ec3-821a-cf608859cc02" configVersion="3d6d8d9993a4a14d8b3bc3d4f5c5414c00000000"/>
+		<Metadata name="CommonModule.Криптография.Module" id="4e1ce054-5ca6-4ec3-821a-cf608859cc02.0" configVersion="a2f78b846a9fcd4fb1403d512d3b470300000000"/>
+		<Metadata name="CommonModule.КриптографияСерверПовтИсп" id="c7ae593f-22f1-4d48-a1d2-296e32e04eca" configVersion="8e688eaf12156e40976d7d51a0cd177d00000000"/>
+		<Metadata name="CommonModule.КриптографияСерверПовтИсп.Module" id="c7ae593f-22f1-4d48-a1d2-296e32e04eca.0" configVersion="58bd3905e38d35499e7fd883472acfdf00000000"/>
+		<Metadata name="CommonTemplate.КомпонентаКриптографии" id="221b13fe-1bc8-4964-bc4b-4f18f9f39146" configVersion="fae5e2ad11ff0e46ac39d5f607f22d6e00000000"/>
+		<Metadata name="CommonTemplate.КомпонентаКриптографии.Template" id="221b13fe-1bc8-4964-bc4b-4f18f9f39146.0" configVersion="cdcdb1c1edac31438618f99be17f9fef00000000"/>
+		<Metadata name="Configuration.БиблиотекаКриптографии" id="f17e64ac-3d81-4209-9c9f-b0ef626c5daf" configVersion="d7b1939244342244a15025225cdd73d100000000"/>
+		<Metadata name="DataProcessor._ДемоКриптограция" id="6ff2aa4d-01d3-4bf2-9516-f5e15e0ca7a8" configVersion="e7491cceee7d7f42a2ecce3c537553bb00000000"/>
+		<Metadata name="DataProcessor._ДемоКриптограция.Form.Форма" id="486a91f2-9721-41e4-aaae-461fea1f1f9d" configVersion="d4d1891ea5f73243a88c0e51d658cba100000000"/>
+		<Metadata name="DataProcessor._ДемоКриптограция.Form.Форма.Form" id="486a91f2-9721-41e4-aaae-461fea1f1f9d.0" configVersion="0d62e3c52f866944bce300bfc5763a9c00000000"/>
+		<Metadata name="Language.Русский" id="b1b436ef-dd4a-41f2-80ac-4fca08269a9d" configVersion="8dee5422def78d48bcedb468e6965ccd00000000"/>
+		<Metadata name="Subsystem.Криптография" id="916898ac-20e2-43e7-ad0a-182907b47301" configVersion="a55f1b324b55aa4c8180be15cf680b0200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
